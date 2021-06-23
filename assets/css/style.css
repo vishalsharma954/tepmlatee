@@ -365,7 +365,7 @@ h1, h2, h3, h4, h5, h6 {
   margin: 0;
   font-size: 48px;
   font-weight: 700;
-  color: #fff;
+  color:rgb(218, 151, 151);
 }
 
 #hero h2 {
@@ -558,6 +558,7 @@ section {
 }
 
 .about .content h3 {
+  color: #e03a3c;
   font-weight: 700;
   font-size: 34px;
   margin-bottom: 30px;
@@ -759,6 +760,10 @@ section {
 /*--------------------------------------------------------------
 # Services
 --------------------------------------------------------------*/
+.services  h2{
+  color: #e03a3c;
+}
+
 .services .icon-box {
   margin-bottom: 20px;
   padding: 30px;
@@ -1069,6 +1074,10 @@ section {
 /*--------------------------------------------------------------
 # Pricing
 --------------------------------------------------------------*/
+.pricing h2{
+  color: #e03a3c;
+}
+
 .pricing .box {
   padding: 20px;
   background: #2b2b2b;
